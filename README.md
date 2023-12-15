@@ -15,6 +15,8 @@ pip install django
 
 pip install django-widget-tweaks
 
+pip install djangorestframework
+
 # PDF
 pip install reportlab
 
